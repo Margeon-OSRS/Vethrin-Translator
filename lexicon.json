@@ -7011,6 +7011,413 @@
       "en": "do not (negative auxiliary)",
       "pos": "v",
       "note": "nav- (not) + dir: the don't of prohibition/denial"
-    }
+    },
+ {
+  "v": "mirathen",
+  "en": "sea's",
+  "pos": "n",
+  "note": "genitive of mirath (ocean/sea)"
+ },
+ {
+  "v": "dairoth",
+  "en": "vastness/expanse",
+  "pos": "n",
+  "note": "dair (far) + roth (great)"
+ },
+ {
+  "v": "lasiror",
+  "en": "did",
+  "pos": "v",
+  "note": "past of lasir (to do/act)"
+ },
+ {
+  "v": "lirarel",
+  "en": "refrain/chorus",
+  "pos": "n",
+  "note": "liren (song) + arel (again); the repeated verse"
+ },
+ {
+  "v": "gorthan",
+  "en": "dwarf",
+  "pos": "n",
+  "note": "stone-person; gorth + -an"
+ },
+ {
+  "v": "gorthanai",
+  "en": "dwarves",
+  "pos": "n",
+  "note": "plural of gorthan"
+ },
+ {
+  "v": "mirutrir",
+  "en": "to overflow",
+  "pos": "v",
+  "note": "mira (water) + utra (too much)"
+ },
+ {
+  "v": "valdfael",
+  "en": "to roam/wander",
+  "pos": "v",
+  "note": "vald (land) + fael (to go)"
+ },
+ {
+  "v": "gornsel",
+  "en": "grotto",
+  "pos": "n",
+  "note": "rock-place; gorn + -sel"
+ },
+ {
+  "v": "gornselen",
+  "en": "grotto's",
+  "pos": "n",
+  "note": "genitive of gornsel"
+ },
+ {
+  "v": "maer",
+  "en": "may",
+  "pos": "v",
+  "note": "modal: permission or possibility; cf. mae (can)"
+ },
+ {
+  "v": "asordael",
+  "en": "antique/heirloom",
+  "pos": "n",
+  "note": "asor (old) + dael (gift)"
+ },
+ {
+  "v": "kelmin",
+  "en": "kobold",
+  "pos": "n",
+  "note": "kel (under) + min (small)"
+ },
+ {
+  "v": "veshan",
+  "en": "sage",
+  "pos": "title",
+  "note": "one who knows; veshir + -an"
+ },
+ {
+  "v": "dethseth",
+  "en": "seventeen",
+  "pos": "num",
+  "note": "deth (ten) + seth (seven); teen pattern ten-unit, cf. sethdeth (seventy)"
+ },
+ {
+  "v": "lirosan",
+  "en": "traveler/traveller",
+  "pos": "title",
+  "note": "liros (journey) + -an"
+ },
+ {
+  "v": "ruseth",
+  "en": "way/manner",
+  "pos": "n",
+  "note": "rusel (road) + -eth"
+ },
+ {
+  "v": "aras",
+  "en": "too/also",
+  "pos": "adv",
+  "note": "cf. ar (and); not utra (too much)"
+ },
+ {
+  "v": "dharg",
+  "en": "fuck",
+  "pos": "interj",
+  "note": "vulgar expletive; low register"
+ },
+ {
+  "v": "dornek",
+  "en": "shit",
+  "pos": "interj",
+  "note": "vulgar; dorn (earth/soil) root; low register"
+ },
+ {
+  "v": "valdrinan",
+  "en": "beastfolk",
+  "pos": "n",
+  "note": "valdrin (wild) + -an"
+ },
+ {
+  "v": "vaelthir",
+  "en": "to embrace",
+  "pos": "v"
+ },
+ {
+  "v": "lhiravorn",
+  "en": "gryffin/griffin",
+  "pos": "n",
+  "note": "bird-beast"
+ },
+ {
+  "v": "lhiravornen",
+  "en": "gryffin's",
+  "pos": "n",
+  "note": "genitive of lhiravorn"
+ },
+ {
+  "v": "morvesh",
+  "en": "witch",
+  "pos": "title",
+  "note": "morvael (cursed) + veshir (to know)"
+ },
+ {
+  "v": "morveshen",
+  "en": "witch's",
+  "pos": "n",
+  "note": "genitive of morvesh"
+ },
+ {
+  "v": "ethiror",
+  "en": "been",
+  "pos": "v",
+  "note": "past of ethir (to be)"
+ },
+ {
+  "v": "melvalan",
+  "en": "anyone/anybody",
+  "pos": "pron",
+  "note": "mel (some) + valan (person)"
+ },
+ {
+  "v": "veneth",
+  "en": "whether",
+  "pos": "conj",
+  "note": "cf. ven (or)"
+ },
+ {
+  "v": "tholaivan",
+  "en": "themselves",
+  "pos": "pron",
+  "note": "reflexive of tholai"
+ },
+ {
+  "v": "kaeldiror",
+  "en": "paid",
+  "pos": "v",
+  "note": "past of kaeldir (to pay)"
+ },
+ {
+  "v": "valdveth",
+  "en": "culture/custom",
+  "pos": "n",
+  "note": "vald (land) + veth (word)"
+ },
+ {
+  "v": "astir",
+  "en": "to remain/stay",
+  "pos": "v"
+ },
+ {
+  "v": "velmir",
+  "en": "to mix/blend",
+  "pos": "v",
+  "note": "vel (bind) + mira (water)"
+ },
+ {
+  "v": "olenir",
+  "en": "to fill",
+  "pos": "v",
+  "note": "olen (whole)"
+ },
+ {
+  "v": "vorviror",
+  "en": "stood",
+  "pos": "v",
+  "note": "past of vorvir (to stand)"
+ },
+ {
+  "v": "dhenir",
+  "en": "to refuse/deny",
+  "pos": "v"
+ },
+ {
+  "v": "durvan",
+  "en": "worker/labourer",
+  "pos": "title",
+  "note": "dur + -van"
+ },
+ {
+  "v": "isvaren",
+  "en": "odd/strange",
+  "pos": "adj"
+ },
+ {
+  "v": "theldorn",
+  "en": "dragon",
+  "pos": "n",
+  "note": "theld (fire) + orn (sovereign)"
+ },
+ {
+  "v": "fendorir",
+  "en": "to accomplish",
+  "pos": "v",
+  "note": "fen (after/end) + dorir (to make)"
+ },
+ {
+  "v": "oldural",
+  "en": "almighty",
+  "pos": "adj",
+  "note": "olan (all) + dural (strong)"
+ },
+ {
+  "v": "thaelkalen",
+  "en": "antlered",
+  "pos": "adj",
+  "note": "tree-topped; thael (tree) + kalen (high)"
+ },
+ {
+  "v": "velthselin",
+  "en": "archivist",
+  "pos": "title",
+  "note": "velthsel (archive) + -in"
+ },
+ {
+  "v": "drimel",
+  "en": "claw/talon",
+  "pos": "n",
+  "note": "drim (blade)"
+ },
+ {
+  "v": "sovalin",
+  "en": "clown/jester",
+  "pos": "title",
+  "note": "soval (happy) + -in"
+ },
+ {
+  "v": "dharvorir",
+  "en": "to defy",
+  "pos": "v"
+ },
+ {
+  "v": "kethvelir",
+  "en": "to enslave",
+  "pos": "v",
+  "note": "kethir (to take) + vel (bind)"
+ },
+ {
+  "v": "mirvel",
+  "en": "fin",
+  "pos": "n",
+  "note": "cf. mirvir (to swim)"
+ },
+ {
+  "v": "ailoren",
+  "en": "frozen",
+  "pos": "adj",
+  "note": "aile (ice)"
+ },
+ {
+  "v": "ailveloth",
+  "en": "glacier",
+  "pos": "n",
+  "note": "ice-river; aile + veloth"
+ },
+ {
+  "v": "rotheth",
+  "en": "grandness/greatness",
+  "pos": "n",
+  "note": "roth (great) + -eth"
+ },
+ {
+  "v": "thaelrhoval",
+  "en": "greenhouse",
+  "pos": "n",
+  "note": "plant-house; thael + rhoval"
+ },
+ {
+  "v": "kelnir",
+  "en": "to kneel",
+  "pos": "v",
+  "note": "kel (under)"
+ },
+ {
+  "v": "lhirsel",
+  "en": "nest",
+  "pos": "n",
+  "note": "bird-place"
+ },
+ {
+  "v": "orninel",
+  "en": "principality",
+  "pos": "n",
+  "note": "ornin (prince) + -el, cf. ornel (kingdom)"
+ },
+ {
+  "v": "elethir",
+  "en": "to ring/toll",
+  "pos": "v",
+  "note": "eleth (sound)"
+ },
+ {
+  "v": "elethiror",
+  "en": "rang",
+  "pos": "v",
+  "note": "past of elethir"
+ },
+ {
+  "v": "dorhis",
+  "en": "soot",
+  "pos": "n",
+  "note": "dorhen (black)"
+ },
+ {
+  "v": "dorhiren",
+  "en": "stained",
+  "pos": "adj",
+  "note": "dorhen (black)"
+ },
+ {
+  "v": "falthir",
+  "en": "to stride",
+  "pos": "v",
+  "note": "cf. falir (to walk)"
+ },
+ {
+  "v": "gorthval",
+  "en": "stubborn",
+  "pos": "adj",
+  "note": "stone-like; gorth + -al"
+ },
+ {
+  "v": "vorsir",
+  "en": "to tend/look after",
+  "pos": "v"
+ },
+ {
+  "v": "vraedir",
+  "en": "to tear/rend",
+  "pos": "v"
+ },
+ {
+  "v": "vraediror",
+  "en": "tore",
+  "pos": "v",
+  "note": "past of vraedir"
+ },
+ {
+  "v": "rhovdael",
+  "en": "to toss/throw",
+  "pos": "v",
+  "note": "rhovan (wind) + dael (to give)"
+ },
+ {
+  "v": "theldkarn",
+  "en": "volcano",
+  "pos": "n",
+  "note": "fire-hill; theld + karn"
+ },
+ {
+  "v": "theldkarnen",
+  "en": "volcanic",
+  "pos": "adj",
+  "note": "of theldkarn; matches its genitive by design"
+ },
+ {
+  "v": "rhovdrin",
+  "en": "winged beast/wingedbeast",
+  "pos": "n",
+  "note": "rhovir (to fly) + valdrin (wild)"
+ }
   ]
 }
