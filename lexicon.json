@@ -7418,6 +7418,60 @@
   "en": "winged beast/wingedbeast",
   "pos": "n",
   "note": "rhovir (to fly) + valdrin (wild)"
- }
+ },
+  {
+    "v": "navlas",
+    "en": "dont/don't",
+    "pos": "part",
+    "note": "fallback contraction of nav + lasir (do); the engine's nav- prefix on the next verb is preferred"
+  },
+  {
+    "v": "navmae",
+    "en": "cant/can't",
+    "pos": "v",
+    "note": "nav + mae (can); same form the engine's negation builds"
+  },
+  {
+    "v": "tholeth",
+    "en": "she's/he's",
+    "pos": "pron",
+    "note": "contraction of thol (she/he) + eth (is)"
+  },
+  {
+    "v": "maraeth",
+    "en": "area/region",
+    "pos": "n",
+    "note": "marae (location) + -eth"
+  },
+  {
+    "v": "inglaveth",
+    "en": "english",
+    "pos": "n",
+    "note": "the English tongue; ingla + veth (speech)"
+  },
+  {
+    "v": "theldar",
+    "en": "fuel",
+    "pos": "n",
+    "note": "fire-stuff; theld + -ar"
+  },
+  {
+    "v": "kethsel",
+    "en": "storage/storehouse",
+    "pos": "n",
+    "note": "keep-place; kethir + -sel"
+  },
+  {
+    "v": "therival",
+    "en": "temporary",
+    "pos": "adj",
+    "note": "theril (moment) + -al"
+  },
+  {
+    "v": "rustrael",
+    "en": "crossroads",
+    "pos": "n",
+    "note": "rusel (road) + trael (across)"
+  }
   ]
 }
